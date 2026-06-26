@@ -7,3 +7,5 @@
 # More edits from clone
 
 # Editing script from stuff repo
+
+# Collaborator A wants color to be purple
