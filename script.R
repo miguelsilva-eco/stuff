@@ -9,3 +9,9 @@
 # Editing script from stuff repo
 
 # Collaborator A wants color to be purple and black
+
+b <- c(27, 38, 30)
+a <- c(5, 9, 23)
+c <- c(30, 30, 36)
+plot(b ~ a, col = "purple")
+plot(c ~ a, col = "green", add = TRUE)
