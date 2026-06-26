@@ -8,4 +8,4 @@
 
 # Editing script from stuff repo
 
-# Collaborator A wants color to be purple and red
+# Collaborator A wants color to be orange and red
