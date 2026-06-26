@@ -5,3 +5,5 @@
 # Made edits to script after running " git config user.name "something_else" " in terminal
 
 # More edits from clone
+
+# Editing script from stuff repo
