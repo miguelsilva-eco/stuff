@@ -13,3 +13,5 @@ commit made in feature branch
 new feature edits
 
 some more edits
+
+Added text after committing another file from clone
